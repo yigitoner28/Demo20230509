@@ -13,7 +13,7 @@ public class CikarmaTest {
 		int sayi4 = 5;
 
 		// WHEN - ASIL TEST
-		int gercekSonuc = Bolme.Bol(sayi3, sayi4);
+		int gercekSonuc = Cikarma.Cikar(sayi3, sayi4);
 
 		// THEN - KONTROL / VALIDASYON
 		assertEquals(95, gercekSonuc);

@@ -6,10 +6,7 @@ import org.junit.Test;
 
 public class HesaplamaTest {
 
-	@Test
-	public void testTopla() {
-		fail("Not yet implemented");
-	}
+	
 
 	@Test
 	public void TestToplaNegatifVePozitifSayi() {
